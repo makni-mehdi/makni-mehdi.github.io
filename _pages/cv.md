@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Curriculum Vitae
-
 You can download my full CV [here](/files/Makni__Mehdi_Resume_Academic.pdf).
-
-For a brief overview of my background and research interests, please visit my [About page](/).
