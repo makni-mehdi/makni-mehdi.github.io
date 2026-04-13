@@ -11,3 +11,5 @@ paperurl: ''
 **Mehdi Makni**, Kayhan Behdin, Zheng Xu, Natalia Ponomareva, Rahul Mazumder
 
 *CPAL 2025 (<span style="color:red">Oral</span>)*
+
+[Conference Link](https://2025.cpal.cc/)
