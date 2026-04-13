@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/3basil_favicon.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mehdi Makni"
-  avatar           : "profile.png"
+  avatar           : "3basil_favicon.png"
   bio              : "PhD student at MIT Operations Research Center"
   location         : "Cambridge, MA"
   employer         : "MIT"
