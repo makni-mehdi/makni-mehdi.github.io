@@ -14,4 +14,4 @@ ICML 2023
 
 *Equal contribution
 
-[Paper](https://proceedings.mlr.press/v202/plassier23a.html) | [Conference Link](https://icml.cc/Conferences/2023)
+[Paper Link](https://proceedings.mlr.press/v202/plassier23a.html)

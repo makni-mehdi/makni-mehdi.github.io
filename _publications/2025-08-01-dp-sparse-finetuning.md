@@ -16,4 +16,4 @@ Poster acceptance at NYC Privacy Day at Google – Fall 2024
 
 Poster acceptance at workshop TPDP 2026 - Theory and Practice of Differential Privacy
 
-[Paper Link](https://arxiv.org/abs/2503.12822) | [Conference Link](https://kdd2025.kdd.org/)
+[Paper Link](https://arxiv.org/abs/2503.12822)
