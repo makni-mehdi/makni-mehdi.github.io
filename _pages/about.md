@@ -17,6 +17,6 @@ My research focuses on:
 - **Differential Privacy**: Sparse DP-SGD for noise reduction
 - **GPU-Accelerated Optimization Algorithms**: First/Second-order methods, ADMM, Local Search with GPU acceleration for problems from above
 
-Prior to MIT, I completed my Bachelor of Science degree in Mathematics and Computer Science at [École Polytechnique](https://www.polytechnique.edu/en), where I was advised by [Eric Moulines](https://www.cmapx.polytechnique.fr/~moulines/) and [Merouane Debbah](https://www.tii.ae/team/prof-merouane-debbah).
+Prior to MIT, I completed my Bachelor of Science degree in Mathematics and Computer Science at [École Polytechnique](https://www.polytechnique.edu/en), where I was advised by [Eric Moulines](https://www.cmapx.polytechnique.fr/~moulines/) and [Merouane Debbah](https://www.tii.ae/team/prof-merouane-debbah). I have also had the opportunity to complete an exchange semester at the Mathematics Department at [ETH Zurich](https://math.ethz.ch/).
 
 You can find my CV [here](/files/Makni__Mehdi_Resume_Academic.pdf).
