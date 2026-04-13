@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mehdi Makni"
 title_separator          : "-"
 name                     : &name "Mehdi Makni"
-description              : &description "MIT ORC PhD student"
+description              : &description "PhD student at MIT Operations Research Center"
 url                      : https://makni-mehdi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "makni-mehdi/makni-mehdi.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mehdi Makni"
   avatar           : "profile.png"
-  bio              : "MIT ORC first-year graduate student"
-  location         : "Boston"
-  employer         :
+  bio              : "PhD student at MIT Operations Research Center"
+  location         : "Cambridge, MA"
+  employer         : "MIT"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
