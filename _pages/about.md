@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at the [MIT Operations Research Center](https://orc.mit.edu/). I am fortunate to be advised by [Rahul Mazumder](https://www.rahulmaz.mit.edu/).
+I am a third-year PhD student at the [MIT Operations Research Center](https://orc.mit.edu/). I am fortunate to be advised by [Rahul Mazumder](https://www.mit.edu/~rahulmaz/).
 
 My research focuses on:
 - **LLM Compression**: Pruning and quantization techniques for large language models
