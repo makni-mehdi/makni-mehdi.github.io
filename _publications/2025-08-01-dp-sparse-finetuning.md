@@ -2,13 +2,13 @@
 title: "An Optimization Framework for Differentially Private Sparse Fine-Tuning"
 collection: publications
 permalink: /publication/2025-dp-sparse-finetuning
-excerpt: 'Mehdi Makni, Kayhan Behdin, Gabriel Afriat, Hussein Hazimeh, Zheng Xu, Sergei Vassilvitskii, Natalia Ponomareva, Rahul Mazumder. <i>KDD 2025</i>.'
+excerpt: '<b>Mehdi Makni</b>, Kayhan Behdin, Gabriel Afriat, Hussein Hazimeh, Zheng Xu, Sergei Vassilvitskii, Natalia Ponomareva, Rahul Mazumder. <i>KDD 2025</i>.'
 date: 2025-08-01
 venue: 'KDD 2025'
 paperurl: ''
 ---
 
-Mehdi Makni, Kayhan Behdin, Gabriel Afriat, Hussein Hazimeh, Zheng Xu, Sergei Vassilvitskii, Natalia Ponomareva, Rahul Mazumder
+**Mehdi Makni**, Kayhan Behdin, Gabriel Afriat, Hussein Hazimeh, Zheng Xu, Sergei Vassilvitskii, Natalia Ponomareva, Rahul Mazumder
 
 *KDD 2025*
 
