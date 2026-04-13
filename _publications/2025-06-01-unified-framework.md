@@ -12,4 +12,4 @@ paperurl: ''
 
 *CPAL 2025 (<span style="color:red">Oral</span>)*
 
-[Conference Link](https://2025.cpal.cc/)
+[Paper Link](https://proceedings.mlr.press/v280/makni25a.html) | [Conference Link](https://2025.cpal.cc/)
