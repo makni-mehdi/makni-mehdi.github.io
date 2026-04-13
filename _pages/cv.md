@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[← Back to About](/){: .btn .btn--primary}
-
 ## Curriculum Vitae
 
 You can download my full CV [here](/files/Makni__Mehdi_Resume_Academic.pdf).
