@@ -8,7 +8,7 @@ venue: 'ICML 2023'
 paperurl: 'https://proceedings.mlr.press/v202/plassier23a.html'
 ---
 
-Vincent Plassier*, **Mehdi Makni**\*, Aleksandr Rubashevskii, Eric Moulines, Maxim Panov
+Vincent Plassier*, <b>Mehdi Makni</b>*, Aleksandr Rubashevskii, Eric Moulines, Maxim Panov
 
 ICML 2023
 
